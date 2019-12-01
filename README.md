@@ -2,15 +2,13 @@
 
 I am so excited to share my datascience project with you all. 
 
-### Guided Project from Dataquest
+### Projects from Dataquest
 
-I have created separate repository for the guided projects i have done from dataquest:
+I have created separate repository for the guided projects i have done from dataquest.
 
-```
-[Link](url)
-```
+Here is Github Repository:
+[Guided Projects](https://github.com/manijangde/GuidedProjects)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### My Cureent Projects:
 
