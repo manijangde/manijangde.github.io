@@ -1,9 +1,10 @@
 ## Welcome!!
 
 This is the place where i publish anything and everything about my datascince work! 
-And i am happy to share with all..  
+And i am happy to share with you all..  
 
 Keep visiting for more interesting projects in the future..
+
 
 ### My Projects
 
