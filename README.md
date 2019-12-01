@@ -1,6 +1,9 @@
 ## Welcome!!
 
-I am so excited to share my datascience project with you all. 
+This is the place where i publish anything and everything about my datascince work! 
+And i am happy to share with all..  
+
+Keep visiting for more interesting projects in the future..
 
 ### My Projects
 
