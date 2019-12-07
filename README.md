@@ -18,6 +18,7 @@ I have created separate repository for all the guided projects i have done:
 2. EDA : Basic EDA techniques with Star Wars Survey dataset.
 3. EDA : Visualizing Earnings Based On College Majors
 4. Data Cleaning : Analyze Employee Exit Surveys
+5. Probability and Statistic : Building Spam Filter Model Using Naive Bayes
 
 Github Repository:
 [Guided Projects](https://github.com/manijangde/GuidedProjects)
