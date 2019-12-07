@@ -8,6 +8,10 @@ Keep visiting for more interesting projects in the future..
 
 ### My Projects
 
+Orgianizing differnt projects work into their respective repositories created. Will be creating more repos according to the projetcs.
+
+#### _Guided Projects:_
+
 I have created separate repository for all the guided projects i have done:
 
 1. SQL Project: explore factbook dataset and get useful insights.
