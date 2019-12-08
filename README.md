@@ -1,5 +1,3 @@
-![sciencepark](https://github.com/manijangde/manijangde.github.io/blob/master/sciencepark.png)
-
 ## Welcome!!
 
 This is the place where i publish anything and everything about my datascince work! 
