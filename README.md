@@ -1,9 +1,9 @@
 ## Welcome!!
 
-This is the place where i publish anything and everything about my datascince work! 
+It's the place where, I publish anything and everything about my datascince work. 
 And i am happy to share with you all..  
 
-Keep visiting for more interesting projects in the future..
+Keep visiting for more interesting projects in the future..!!
 
 
 ### My Projects
@@ -12,16 +12,25 @@ Orgianizing differnt projects work into their respective repositories created. W
 
 #### _Guided Projects:_
 
-I have created separate repository for all the guided projects i have done:
+This repository have all my guided projects from dataquest:
 
 1. SQL Project: explore factbook dataset and get useful insights.
-2. EDA : Basic EDA techniques with Star Wars Survey dataset.
+2. EDA : Basic EDA technique with Star Wars Survey dataset.
 3. EDA : Visualizing Earnings Based On College Majors
 4. Data Cleaning : Analyze Employee Exit Surveys
 5. Probability and Statistic : Building Spam Filter Model Using Naive Bayes
 
 Github Repository:
 [Guided Projects](https://github.com/manijangde/GuidedProjects)
+
+#### _ELU Projects:_
+
+This repository have all my ELU projects:
+
+1. PROJECT_M2 : Visualization 
+
+Github Repository:
+[ELU Projects](https://github.com/manijangde/EluProjects)
 
 #### _Current Projects:_
 TBD
