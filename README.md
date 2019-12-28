@@ -19,6 +19,7 @@ This repository have all my guided projects from dataquest:
 6. Hypothesis Testing : Basic hypothesis testing on jeopardy
 7. Statistics Intermediate(Averages and Variability):Best Market analysis to launch e-learning courses
 8. Machine Learning Fundamentals : Car Price Prediction using KNN model
+9. Machine Learning Fundamentals : Bike Renting Prediction
 
 Github Repository:
 [Guided Projects](https://github.com/manijangde/GuidedProjects)
