@@ -1,6 +1,6 @@
 ## Welcome!!
 
-It's the place.. I publish anything and everything about my data science work. 
+Here, I publish anything and everything about my data science work. 
 Keep visiting for more interesting projects in the future..!!
 
 ### My Projects
@@ -18,6 +18,7 @@ This repository have all my guided projects from dataquest:
 5. Probability and Statistic : Building Spam Filter Model Using Naive Bayes
 6. Hypothesis Testing : Basic hypothesis testing on jeopardy
 7. Statistics Intermediate(Averages and Variability):Best Market analysis to launch e-learning courses
+8. Machine Learning Fundamentals : Car Price Prediction using KNN model
 
 Github Repository:
 [Guided Projects](https://github.com/manijangde/GuidedProjects)
