@@ -38,4 +38,4 @@ Here are my latest projects to work on:
 1. Speech_Emotion_Detection
 
 Github Repository:
-[MyCurrentProjects](https://github.com/manijangde/CurrentProjects)
+[Current Projects](https://github.com/manijangde/CurrentProjects)
