@@ -1,10 +1,7 @@
 ## Welcome!!
 
-It's the place where, I publish anything and everything about my datascince work. 
-And i am happy to share with you all..  
-
+It's the place.. I publish anything and everything about my data science work. 
 Keep visiting for more interesting projects in the future..!!
-
 
 ### My Projects
 
@@ -42,4 +39,3 @@ Here are my latest projects to work on:
 
 Github Repository:
 [MyCurrentProjects](https://github.com/manijangde/CurrentProjects)
-
