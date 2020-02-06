@@ -30,7 +30,11 @@ Github Repository:
 
 This repository have all my ELU projects:
 
-1. PROJECT_M2 : Visualization 
+1. MODULE2_PROJECT : Visualization insights from Startbucks and McDonalds food and drink items
+2. MODULE3_PROJECT: Make your data shine!
+3. MODULE4_PROJECT: Investigate the Airbnb Data
+4. MODULE5_PROJECT: Communicating your Data Insights
+5. MODULE6_PROJECT: Kaggle Competition - Predict Traffic Congestion
 
 Github Repository:
 [ELU Projects](https://github.com/manijangde/EluProjects)
